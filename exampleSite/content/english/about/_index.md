@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am Thirumalai!"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Currently pursuing my master's in Quantum computing at Indian Institute of Twechnology, Jodhpur. My area of interest lies in Quantum machine learning and project. Also open to any project in Quantum computing and Machine learning.
