@@ -22,28 +22,28 @@ name = "Work"
 hasChildren = true
 
 [[main]]
-parent = "Machine Learning"
-name = "Blog"
+parent = "Work"
+name = "Machine Learning"
 url = "blog/"
 
 [[main]]
-parent = "Quantum MAchine Learning"
-name = "Contact"
+parent = "Work"
+name = "Quantum MAchine Learning"
 url = "contact/"
 
 [[main]]
-parent = "Quantum Cryptography"
-name = "Authors"
+parent = "Work"
+name = "Quantum Cryptography"
 url = "authors/"
 
 [[main]]
-parent = "Quantum Algorithms"
-name = "Categories"
+parent = "Work"
+name = "Quantum Algorithms"
 url = "categories/"
 
 [[main]]
-parent = "Quantum meachnics"
-name = "404 Page"
+parent = "Work"
+name = "Quantum meachnics"
 url = "404/"
 
 
@@ -54,7 +54,7 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "Elements"
+name = "Blog"
 url = "elements/"
 weight = 2
 
