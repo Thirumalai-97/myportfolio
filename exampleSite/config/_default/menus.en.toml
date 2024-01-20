@@ -18,31 +18,31 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Work"
 hasChildren = true
 
 [[main]]
-parent = "Pages"
+parent = "Machine Learning"
 name = "Blog"
 url = "blog/"
 
 [[main]]
-parent = "Pages"
+parent = "Quantum MAchine Learning"
 name = "Contact"
 url = "contact/"
 
 [[main]]
-parent = "Pages"
+parent = "Quantum Cryptography"
 name = "Authors"
 url = "authors/"
 
 [[main]]
-parent = "Pages"
+parent = "Quantum Algorithms"
 name = "Categories"
 url = "categories/"
 
 [[main]]
-parent = "Pages"
+parent = "Quantum meachnics"
 name = "404 Page"
 url = "404/"
 
