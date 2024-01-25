@@ -37,6 +37,7 @@ features:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
+      -->
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
@@ -51,5 +52,5 @@ features:
       label: ""
       link: ""
 ---
--->
+
 
