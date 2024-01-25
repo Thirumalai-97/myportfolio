@@ -10,7 +10,6 @@ banner:
     link: "https://www.linkedin.com/in/m-thirumalai/"
  # Features
 features:
-
   - title: "Quantum Computing"
     image: "/images/service-2.png"
     content: "Quantum computing is a diverse field which mainly included quantum machine learning, quantum algorithms, post quantum cryptography. Here I have included my work on these areas. Below are my current work in these areas."
@@ -47,11 +46,7 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
-
-
-  
-      
+      link: ""      
 ---
 
 
