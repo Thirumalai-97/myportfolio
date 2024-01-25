@@ -6,9 +6,8 @@ banner:
   image: ""
   button:
     enable: true
-    label: "Connect with me "
+    label: "Connect with me."
     link: "https://www.linkedin.com/in/m-thirumalai/"
-
 <!--  # Features
 features:
   - title: "What's Included in Hugoplate"
