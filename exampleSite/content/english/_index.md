@@ -1,51 +1,53 @@
 ---
-
-  # Banner
+# Banner
 banner:
-  - title: "Welcome to my portfolio"
-    content: "In this site you can explore my work and blogs related to quantum computing, predominantly in     quantum machine learning, algorithm and cryptography."
-    image: "/images/service-2.png"
-    button:
+  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
+  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  image: "/images/banner.png"
+  button:
     enable: true
-    label: "Connect with me."
-    link: "https://www.linkedin.com/in/m-thirumalai/"
-  # Features
+    label: "Get Started For Free"
+    link: "https://github.com/zeon-studio/hugoplate"
+
+# Features
 features:
-  - title: "Quantum Computing"
-    image: "/images/service-2.png"
-    content: "Quantum computing is a diverse field which mainly included quantum machine learning, quantum algorithms, post quantum cryptography. Here I have included my work on these areas. Below are my current work in these areas."
-    bulletpoints:
-      - "Quantum Gate's implementation"
-      - "Realization of quantum algorithms in Qiskit"
-      - "Various quantum machine learning algorithms"
-    button:
-      enable: true
-      label: "Click Here for more"
-      link: ""
-
-  - title: "My Blogs"
-    image: "/images/service-3.png"
-    content: "Along with documenting my work, I have started writing blogs on quantum computing. I write blogs majorly in the below areas"
-    bulletpoints:
-      - "Quantum mechanics"
-      - "Quantum computing"
-      - "Current trends in quantum computing"
-    button:
-      enable: true
-      label: "Click here to Read"
-      link: "" 
-
-  - title: "Machine Learning Models"
+  - title: "What's Included in Hugoplate"
     image: "/images/service-1.png"
-    content: "I have included my code for ML models that I have worked on during my ML course at IIT, Jodhpur. Below are the algorithms that I have used. Check out my work for code."
+    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
     bulletpoints:
-      - "K Nearest Neighbor algorithm"
-      - "Convolutional neural network"
-      - "K means clustering"
-      - "Gaussian Distribution"
-      - "Support vector machine"
+      - "10+ Pre-build pages"
+      - "95+ Google Pagespeed Score"
+      - "Build with Hugo and TailwindCSS for easy and customizable styling"
+      - "Fully responsive on all devices"
+      - "SEO-optimized for better search engine rankings"
+      - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
       label: "Get Started Now"
+      link: "#"
+
+  - title: "Discover the Key Features Of Hugo"
+    image: "/images/service-2.png"
+    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    bulletpoints:
+      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
+      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
+      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+    button:
+      enable: true
+      label: "Get Started Now"
+      link: "https://github.com/zeon-studio/hugoplate"
+
+  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+    image: "/images/service-3.png"
+    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    bulletpoints:
+      - "Instantly load static sites for better user experience and SEO."
+      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
+      - "Use any front-end library or framework, or build custom components, for any project size."
+      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+    button:
+      enable: false
+      label: ""
       link: ""
 ---
