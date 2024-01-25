@@ -3,13 +3,13 @@
 banner:
   title: "Welcome to my portfolio website"
   content: "In this site you can explore my work and blogs related to quantum computing, predominantly in quantum machine learning, algorithm and cryptography."
-  image: "/images/banner.png"
+  image: ""
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Connect with me "
+    link: "https://www.linkedin.com/in/m-thirumalai/"
 
-# Features
+<!--  # Features
 features:
   - title: "What's Included in Hugoplate"
     image: "/images/service-1.png"
@@ -51,3 +51,5 @@ features:
       label: ""
       link: ""
 ---
+-->
+
