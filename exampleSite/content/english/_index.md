@@ -1,8 +1,9 @@
+---
 
-# Banner
+  # Banner
 banner:
-  title: "Welcome to my portfolio website"
-  content: "In this site you can explore my work and blogs related to quantum computing, predominantly in quantum machine learning, algorithm and cryptography."
+- title: "Welcome to my portfolio"
+  content: "In this site you can explore my work and blogs related to quantum computing, predominantly in     quantum machine learning, algorithm and cryptography."
   image: "/images/service-2.png"
   button:
     enable: true
