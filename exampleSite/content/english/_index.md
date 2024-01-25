@@ -4,11 +4,11 @@ banner:
   title: "Welcome to my portfolio website"
   content: "In this site you can explore my work and blogs related to quantum computing, predominantly in quantum machine learning, algorithm and cryptography."
   image: ""
-  button:
+ <!-- button:
     enable: true
     label: "Connect with me."
     link: "https://www.linkedin.com/in/m-thirumalai/"
-
+-->
  # Features
 features:
   - title: "What's Included in Hugoplate"
