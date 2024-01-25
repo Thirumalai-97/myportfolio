@@ -1,4 +1,4 @@
----
+
 # Banner
 banner:
   title: "Welcome to my portfolio website"
