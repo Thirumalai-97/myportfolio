@@ -39,7 +39,7 @@ features:
     image: "/images/service-3.png"
     content: "I have included my code for ML models that I have worked on during my ML course at IIT, Jodhpur. Below are the algorithms that I have used. Check out my work for code."
     bulletpoints:
-     - "K Nearest Neighbor algorithm"
+      - "K Nearest Neighbor algorithm"
       - "Convolutional neural network"
       - "K means clustering"
       - "Gaussian Distribution"
