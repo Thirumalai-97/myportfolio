@@ -9,7 +9,7 @@ banner:
     enable: true
     label: "Connect with me."
     link: "https://www.linkedin.com/in/m-thirumalai/"
- # Features
+  # Features
 features:
   - title: "Quantum Computing"
     image: "/images/service-2.png"
@@ -23,9 +23,9 @@ features:
       label: "Click Here for more"
       link: ""
 
-- title: "My Blogs"
+  - title: "My Blogs"
     image: "/images/service-3.png"
-    content: "Along with domenting my work I have started wrinting blogs on quantum computing. I write blogs majorly in the below area's"
+    content: "Along with documenting my work, I have started writing blogs on quantum computing. I write blogs majorly in the below areas"
     bulletpoints:
       - "Quantum mechanics"
       - "Quantum computing"
@@ -35,9 +35,9 @@ features:
       label: "Click here to Read"
       link: "" 
 
-  - title: "Machine Learning Model's"
+  - title: "Machine Learning Models"
     image: "/images/service-1.png"
-    content: "I have included my code for ML model that I have worked during my ML course at IIT, Jodhpur. Below are the algorithms that I have used. Check at my work for code."
+    content: "I have included my code for ML models that I have worked on during my ML course at IIT, Jodhpur. Below are the algorithms that I have used. Check out my work for code."
     bulletpoints:
       - "K Nearest Neighbor algorithm"
       - "Convolutional neural network"
@@ -47,7 +47,5 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: ""      
+      link: ""
 ---
-
-
