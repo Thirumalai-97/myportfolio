@@ -2,7 +2,7 @@
 title: "Hey, I am Thirumalai!"
 meta_title: "About"
 description: "this is meta description"
-<!--image: "" -->
+image: ""
 draft: false
 ---
 
