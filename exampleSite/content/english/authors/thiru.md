@@ -1,7 +1,7 @@
 ---
 title: Thirumalai M 
 email: thirumalai11049761@gmail.com
-image: "/images/avatar.png"
+image: "/images/mypic/mypic1.JPG"
 description: this is meta description
 social:
   - name: github
