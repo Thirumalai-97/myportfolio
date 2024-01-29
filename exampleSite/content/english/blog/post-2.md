@@ -2,11 +2,11 @@
 title: "Spooky Action at a Distance — The EPR Paradox"
 meta_title: ""
 description: ""
-date: 2022-04-04T05:00:00Z
+date: 2024-01-15T05:00:00Z
 image: "/assets/images/blog2.jpeg"
-categories: ["Quantum mechanics", "introduction"]
-author: "Sam Wilson"
-tags: ["quantum tech", "introduction"]
+categories: ["Quantum mechanics", "Paradox"]
+author: "Thirumalai"
+tags: ["quantum tech", "computing"]
 draft: false
 ---
 
