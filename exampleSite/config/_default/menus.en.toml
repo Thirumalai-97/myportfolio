@@ -34,17 +34,17 @@ url = "QML/"
 [[main]]
 parent = "Work"
 name = "Quantum Cryptography"
-url = "Quantum Cryptography/"
+url = "Crypt/"
 
 [[main]]
 parent = "Work"
 name = "Quantum Algorithms"
-url = "Quantum Algorithms/"
+url = "Qalgo/"
 
 [[main]]
 parent = "Work"
 name = "Quantum meachnics"
-url = "Quantum meachnics/"
+url = "QMech/"
 
 
 # footer menu
@@ -55,10 +55,10 @@ weight = 1
 
 [[footer]]
 name = "Blog"
-url = "elements/"
+url = "Blog/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Contact"
+url = "contact/"
 weight = 3
