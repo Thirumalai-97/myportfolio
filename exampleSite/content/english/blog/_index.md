@@ -1,5 +1,5 @@
 ---
 title: "Blog"
 meta_title: ""
-description: "this is meta description"
+description: "Please feel free to leave your feedback on my blogs"
 ---
