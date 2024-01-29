@@ -24,7 +24,7 @@ features:
       link: "#"
 
   - title: "My Blogs"
-    image: "/images/mypic/blog.jpeg"
+    image: "/images/mypic/myblog.jpeg"
     content: "Along with documenting my work, I have started writing blogs on quantum computing. I write blogs majorly in the below areas"
     bulletpoints:
       - "Quantum mechanics"
