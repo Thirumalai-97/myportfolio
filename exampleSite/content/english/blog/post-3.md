@@ -2,11 +2,11 @@
 title: "Superposition and Entanglement"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-01-29T05:00:00Z
 image: "/assets/images/blog3.jpeg"
-categories: ["Software"]
-author: "John Doe"
-tags: ["software", "tailwind"]
+categories: ["Quantum computing"]
+author: "Thirumalai"
+tags: ["computing", "quantum tech"]
 draft: false
 ---
 
