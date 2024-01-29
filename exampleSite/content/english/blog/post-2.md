@@ -3,7 +3,7 @@ title: "Spooky Action at a Distance — The EPR Paradox"
 meta_title: ""
 description: ""
 date: 2024-01-15T05:00:00Z
-image: "/assets/images/blog2.jpeg"
+image: "/assets/images/blogs/blog2.jpeg"
 categories: ["Quantum mechanics", "Paradox"]
 author: "Thirumalai"
 tags: ["quantum tech", "computing"]
