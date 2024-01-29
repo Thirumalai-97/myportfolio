@@ -1,23 +1,16 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Spooky Action at a Distance — The EPR Paradox"
 meta_title: ""
-description: "this is meta description"
+description: ""
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Technology", "Data"]
+image: "/assets/images/blog2.jpeg"
+categories: ["Quantum mechanics", "introduction"]
 author: "Sam Wilson"
-tags: ["technology", "tailwind"]
+tags: ["quantum tech", "introduction"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Einstein’s paper with his two postdoctoral research companions, Boris Podolsky and Nathan Rosen, was the great EPR paradox.”Can Quantum Mechanical Description of Physical Reality Be Considered Complete?” asks the paper.(1935). You might be surprised to learn that Einstein was the one who laid the groundwork for quantum mechanics in its early stages, only to propose that quantum physics is incomplete. Some refer to this as Einstein’s great mistake, which led to a tremendous quantum discovery. 
 
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Read more about this at [medium](https://medium.com/@thirumalai11049761/spooky-action-at-a-distance-the-epr-paradox-b94688619d69)
