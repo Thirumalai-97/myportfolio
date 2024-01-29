@@ -24,27 +24,27 @@ hasChildren = true
 [[main]]
 parent = "Work"
 name = "Machine Learning"
-url = "blog/"
+url = "ML/"
 
 [[main]]
 parent = "Work"
 name = "Quantum MAchine Learning"
-url = "contact/"
+url = "QML/"
 
 [[main]]
 parent = "Work"
 name = "Quantum Cryptography"
-url = "authors/"
+url = "Quantum Cryptography/"
 
 [[main]]
 parent = "Work"
 name = "Quantum Algorithms"
-url = "categories/"
+url = "Quantum Algorithms/"
 
 [[main]]
 parent = "Work"
 name = "Quantum meachnics"
-url = "404/"
+url = "Quantum meachnics/"
 
 
 # footer menu
