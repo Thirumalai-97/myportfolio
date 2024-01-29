@@ -3,7 +3,7 @@ title: "Superposition and Entanglement"
 meta_title: ""
 description: "this is meta description"
 date: 2024-01-29T05:00:00Z
-image: "/assets/images/blog3.jpeg"
+image: "/assets/images/blogs/blog3.jpeg"
 categories: ["Quantum computing"]
 author: "Thirumalai"
 tags: ["computing", "quantum tech"]
