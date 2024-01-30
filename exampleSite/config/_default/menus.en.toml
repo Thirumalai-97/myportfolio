@@ -28,7 +28,7 @@ url = "ML/"
 
 [[main]]
 parent = "Work"
-name = "Quantum MAchine Learning"
+name = "Quantum Machine Learning"
 url = "QML/"
 
 [[main]]
@@ -41,10 +41,6 @@ parent = "Work"
 name = "Quantum Algorithms"
 url = "Qalgo/"
 
-[[main]]
-parent = "Work"
-name = "Quantum meachnics"
-url = "QMech/"
 
 
 # footer menu
