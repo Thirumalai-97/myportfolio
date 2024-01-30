@@ -9,3 +9,7 @@ author: "Thirumalai"
 tags: []
 draft: false
 ---
+
+Will be updated soon, menwhile you can find the code below
+
+{{< button label="Code" link="https://github.com/Thirumalai-97/Qcomputing/tree/main/QAlgorithm's/Grover%20search" style="solid" >}}
