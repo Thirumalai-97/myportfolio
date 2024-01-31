@@ -40,7 +40,7 @@ url = "Crypt/"
 parent = "Work"
 name = "Quantum Algorithms"
 url = "Qalgo/"
-
+weight = 5
 
 
 # footer menu
