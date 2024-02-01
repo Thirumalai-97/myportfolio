@@ -4,9 +4,9 @@ meta_title: ""
 description: "A brief introduction to quantum"
 date: 2024-01-01T05:00:00Z
 image: "exampleSite/assets/images/blogs/blog1.jpeg"
-categories: ["Quantum mechanics", "Story"]
+categories: []
 author: "Thirumalai"
-tags: ["Quantum tech", "Advanced physics"]
+tags: []
 draft: false
 ---
 
