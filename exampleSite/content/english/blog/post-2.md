@@ -4,9 +4,9 @@ meta_title: ""
 description: ""
 date: 2024-01-15T05:00:00Z
 image: "exampleSite/assets/images/blogs/blog2.JPEG"
-categories: ["Quantum mechanics", "Paradox"]
+categories: []
 author: "Thirumalai"
-tags: ["quantum tech", "computing"]
+tags: []
 draft: false
 ---
 
