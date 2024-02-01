@@ -4,9 +4,9 @@ meta_title: ""
 description: "this is meta description"
 date: 2024-01-29T05:00:00Z
 image: "exampleSite/assets/images/blogs/blog3.JPEG"
-categories: ["Quantum computing"]
+categories: []
 author: "Thirumalai"
-tags: ["computing", "quantum tech"]
+tags: []
 draft: false
 ---
 
