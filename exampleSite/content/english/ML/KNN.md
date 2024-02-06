@@ -1,3 +1,16 @@
+---
+title: "K-Nearest Neighbour"
+meta_title: ""
+description: "Supervised Learning algorithm"
+date: 2024-02-06T05:00:00Z
+image: ""
+categories: []
+author: "Thirumalai"
+tags: []
+draft: false
+---
+
+
 # KNN
 ## K-Nearest Neighbour
 - K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique.
