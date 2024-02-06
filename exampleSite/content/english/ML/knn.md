@@ -2,7 +2,7 @@
 title: "K-Nearest Neighbour"
 meta_title: ""
 description: "Supervised Learning algorithm"
-date: 2024-02-06T05:00:00Z
+date: 2024-02-04T05:00:00Z
 image: ""
 categories: []
 author: "Thirumalai"
