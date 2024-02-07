@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Principal Component Analysis"
 meta_title: "Principal Component Analysis"
 description: "Unsupervised Learning algorithm"
 date: 2024-02-04T05:00:00Z
