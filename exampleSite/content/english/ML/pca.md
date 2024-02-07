@@ -1,7 +1,7 @@
 ---
-title: "K-Nearest Neighbour"
-meta_title: ""
-description: "Supervised Learning algorithm"
+title: ""
+meta_title: "Principal Component Analysis"
+description: "Unsupervised Learning algorithm"
 date: 2024-02-04T05:00:00Z
 image: ""
 categories: []
