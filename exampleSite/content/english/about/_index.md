@@ -6,7 +6,7 @@ image: "exampleSite/assets/images/mypic/Thirumalai.jpeg"
 draft: false
 ---
 
-Currently pursuing my master's in Quantum computing at Indian Institute of Technologies, Jodhpur. 
+Currently pursuing my master's in Quantum computing at Indian Institute of Technology, Jodhpur. 
 
 I am expploring quantum machine learning algorithms. My area of interest lies in QCNN, QGAN and QGNN. I'm a beginner in qiskit programming and have implemented some self projects in QCNN and QNN.
 
