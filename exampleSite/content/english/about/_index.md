@@ -13,7 +13,7 @@ I'm exploring quantum machine learning techniques. My research interests include
 Seeking collaboration in the field of QML. Aside from QML, I have some understanding and interest in quantum algorithms and cryptography. I have done a formal course - Practical Introduction to Quantum-Safe Cryptography
 offered by IBM (Credly)[https://www.credly.com/badges/153198d3-3be8-48d7-ad17-092af3ae76dd/public_url]. 
 
-Interest in researching computer vision challenges and applications. 
+Interested in researching computer vision challenges and applications. 
 
 If you are at IIT Jodhpur, please contact me. Let's go for a quantum walk and talk:).
 
