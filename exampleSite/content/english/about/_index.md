@@ -6,12 +6,13 @@ image: "exampleSite/assets/images/mypic/Thirumalai.jpeg"
 draft: false
 ---
 
-Currently pursuing my master's in Quantum computing at Indian Institute of Technology, Jodhpur. 
+I am currently pursuing a master's degree in quantum computing at the Indian Institute of Technology, Jodhpur. 
 
-I am expploring quantum machine learning algorithms. My area of interest lies in QCNN, QGAN and QGNN. I'm a beginner in qiskit programming and have implemented some self projects in QCNN and QNN.
+I'm exploring quantum machine learning techniques. My research interests include QCNN, QGAN, and QGNN. I'm a beginner in qiskit programming and have completed various self-projects in QCNN and QNN.
 
-Looking for collaboration in the area of QML. Apart from QML I have some knowledge and interest in Quantum algorithms and quantum cryptography. 
+Seeking collaboration in the field of QML. Aside from QML, I have some understanding and interest in quantum algorithms and cryptography. 
 
-Interest to explore computer vision problems and applications. 
+Interest in researching computer vision challenges and applications. 
 
-If you are at IIT Jodhpur, contact me --> Let's have quantum walk and talk :).
+If you are at IIT Jodhpur, please contact me. Let's go for a quantum walk and talk:).
+
