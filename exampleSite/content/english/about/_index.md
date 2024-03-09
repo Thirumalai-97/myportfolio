@@ -8,9 +8,10 @@ draft: false
 
 I am currently pursuing a master's degree in quantum computing at the Indian Institute of Technology, Jodhpur. 
 
-I'm exploring quantum machine learning techniques. My research interests include QCNN, QGAN, and QGNN. I'm a beginner in qiskit programming and have completed various self-projects in QCNN and QNN.
+I'm exploring quantum machine learning techniques. My research interests include QCNN, QGAN, and QGNN. I'm a beginner in qiskit programming.
 
-Seeking collaboration in the field of QML. Aside from QML, I have some understanding and interest in quantum algorithms and cryptography. 
+Seeking collaboration in the field of QML. Aside from QML, I have some understanding and interest in quantum algorithms and cryptography. I have done a formal course - Practical Introduction to Quantum-Safe Cryptography
+offered by IBM (Credly)[https://www.credly.com/badges/153198d3-3be8-48d7-ad17-092af3ae76dd/public_url]. 
 
 Interest in researching computer vision challenges and applications. 
 
