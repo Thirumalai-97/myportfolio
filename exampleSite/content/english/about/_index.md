@@ -2,20 +2,16 @@
 # Banner
 banner:
   title: "Thirumalai M"
-  content: "Master's in Quantum Computing"
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Connect with me"
-    link: "https://www.linkedin.com/in/m-thirumalai/"
+  content: "Quantum Computing Engineer"
+  
 
 # Features
 features:
-  - title: "Quantum Computing"
+  - title: "Master's in Quantum Technologies"
     image: "/images/mypic/qcomputer.jpeg"
-    content: "Quantum computing is a diverse field which mainly included quantum machine learning, quantum algorithms, post quantum cryptography. Here I have included my work on these areas. Below are my current work in these areas"
+    content: "Currently pursuing my Master's in Quantum technologies specilization in quantum computing at IIT Jodhpur."
     bulletpoints:
-      - "Quantum Gate's implementation"
+      - "Key Courses : Quantum mechanics, Introduction in quantum computation and information, quantum algorithms, quantum machine learning, "
       - "Realization of quantum algorithms in Qiskit"
       - "Various quantum machine learning algorithms"
     button:
