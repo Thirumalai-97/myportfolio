@@ -3,18 +3,29 @@ enable: true
 title: "Overview of my work"
 description: "Below are the vertical's I'm currently occupied."
 
-
 # Testimonials
 testimonials:
-  - name: "Quantum Computing"
+ 
+
+  - name: "Quantum Gates"
+    designation: "Theory and implementation in code and GUI"
+    avatar: "/images/mypic/qcomputer.jpeg"
+    content: "Quantum Gates based operations such as generating Bell states, GHZ state, Werener state, realization of superposition and Entanglement and much more."
+
+  - name: "Quantum Algorithms"
     designation: "Theory and implementation"
     avatar: "/images/mypic/qcomputer.jpeg"
-    content: "Quantum computing is a diverse field which mainly included quantum machine learning, quantum algorithms, post quantum cryptography. Here I have included my work on these areas. Following are my current work in these areas - Quantum Gate's implementation,Realization of quantum algorithms in Qiskit,quantum machine learning algorithms"
+    content: "Exploring supremacy of Quantum algorithm over classical algorithm. Some realization include Deutch-Jozsa, Groover and Bernstein-Vazirani algorithm."
 
+  - name: "Quantum Machine learning"
+    designation: "Theory and implementation"
+    avatar: "/images/mypic/qcomputer.jpeg"
+    content: "Understanding and implementing various quantum machine learning algorithm. Also finding real time applications for better performance over existing classical algorithms. "
+   
   - name: "Machine Learning Models"
     designation: "Code in python"
     avatar: "/images/mypic/NNbnw.jpeg"
-    content: "I have included my code for ML models that I have worked on during my ML course at IIT, Jodhpur. KNN, CNN, K-means clustering, SVM and Guassian distribution were some of my works. Check out my work at machine learning page."
+    content: " KNN, CNN, K-means clustering, SVM and Guassian distribution were some of my works done during my course at IIT Jodhpur. Check out my work at machine learning page."
 
   - name: "My Blogs"
     designation: "Medium"
