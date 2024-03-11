@@ -17,3 +17,16 @@ Interested in researching computer vision challenges and applications.
 
 If you are at IIT Jodhpur, please contact me. Let's go for a quantum walk and talk:).
 
+# Features
+features:
+  - title: "Master's in Quantum Technologies"
+    image: "/images/mypic/qcomputer.jpeg"
+    content: "I am currently pursuing a master's degree in quantum computing at the Indian Institute of Technology, Jodhpur."
+    bulletpoints:
+      - "Quantum Gate's implementation"
+      - "Realization of quantum algorithms in Qiskit"
+      - "Various quantum machine learning algorithms"
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
