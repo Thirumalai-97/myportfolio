@@ -1,16 +1,29 @@
 ---
 # Banner
  banner:
-  title: "Thirumalai M"
-  content: "Quantum Computing Engineer"
-  image: "images/mypic/Thirumalai.jpeg"
+  title: ""
+  content: ""
+  image: ""
   
-
 # Features
  features:
+
+  - title: "Thirumalai M"
+    image: "images/mypic/Thirumalai.jpeg"
+    content: "Quantum Computing Engineer"
+    bulletpoints:
+      - "I'm currently pursuing my master's in Quantum Technologies, Specializing in Quantum computing at Indian Institute of Technology, Jodhpur."
+      - "looking to collaborate on ML,QML and cryptography"
+      - "Exploring QML algorithm such as QNN,QCNN,QGNN,QGAN. "
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
+  
+ 
   - title: "Master's in Quantum Technologies"
     image: "images/mypic/IIT-jodhpur-researchers6.jpg"
-    content: "Currently pursuing my Master's in Quantum technologies specilization in quantum computing at IIT Jodhpur."
+    content: "Currently pursuing"
     bulletpoints:
       - "Key Courses : Quantum mechanics, Introduction in quantum computation and information, quantum algorithms, quantum machine learning, "
       - "Realization of quantum algorithms in Qiskit"
