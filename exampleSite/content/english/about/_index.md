@@ -7,7 +7,7 @@
   
 
 # Features
-features:
+ features:
   - title: "Master's in Quantum Technologies"
     image: "exampleSite/assets/images/mypic/IIT-jodhpur-researchers6.jpg"
     content: "Currently pursuing my Master's in Quantum technologies specilization in quantum computing at IIT Jodhpur."
