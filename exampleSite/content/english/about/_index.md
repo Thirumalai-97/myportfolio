@@ -3,6 +3,7 @@
 banner:
   title: "Thirumalai M"
   content: "Quantum Computing Engineer"
+  image: "exampleSite/assets/images/mypic/Thirumalai.jpeg"
   
 
 # Features
