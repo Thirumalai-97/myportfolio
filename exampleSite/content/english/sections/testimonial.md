@@ -30,7 +30,7 @@ testimonials:
   - name: "My Blogs"
     designation: "Medium"
     avatar: "/images/mypic/myblog.jpeg"
-    content: "Along with documenting my work, I have started writing blogs on quantum computing. I write blogs mostly related quantum and machine learning maybe in future some non tech part too. Check more in blogs page."
+    content: "Along with documenting my work, I have started writing blogs on quantum computing. I write blogs mostly related quantum and machine learning. Check more in blogs page."
 
 
 
