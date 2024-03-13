@@ -3,7 +3,7 @@
  banner:
   title: "Thirumalai M"
   content: "Quantum Computing Engineer"
-  image: "exampleSite/assets/images/mypic/Thirumalai.jpeg"
+  image: "images/mypic/Thirumalai.jpeg"
   
 
 # Features
@@ -22,7 +22,7 @@
 
 
   - title: "Automation analyst"
-    image: "exampleSite/assets/images/mypic/Amazoncom-yellow-arrow.png"
+    image: "images/mypic/Amazoncom-yellow-arrow.png"
     content: "Worked as automation analyst in competitor monitoring team at Amazon."
     bulletpoints:
       - "Developing coding environment such that it fetches data available openly at competitor's website."
@@ -34,7 +34,7 @@
       link: "#"
 
   - title: "Retail associate"
-    image: "exampleSite/assets/images/mypic/Amazoncom-yellow-arrow.png"
+    image: "images/mypic/Amazoncom-yellow-arrow.png"
     content: "Worked as retail associate in competitor monitoring team at Amazon."
     bulletpoints:
       - "Planning and executing production plan according to business requirements."
@@ -46,13 +46,13 @@
       link: "#"
 
 
-- title: "Bachelor's in Electrical and Electronics Engineering"
-    image: "exampleSite/assets/images/mypic/kcg.jpeg"
+  - title: "Bachelor's in Electrical and Electronics Engineering"
+    image: "images/mypic/kcg.jpeg"
     content: "Graduated as Electrical and Electronics Engineering from K.C.G. College of technology, Chennai. "
     bulletpoints:
       - "Key Courses : Power system and control, Power electronics, Electrical Machines,Object oriented programming, Solid state devices etc,. "
-      - "Power factor improvement using capacitors "
-      - "Various quantum machine learning algorithms"
+      - "Power factor improvement using capacitors."
+      - "Predominantly worked on power system area such as power factor improvement, Wireless power transmission and analysis of harmonics."
     button:
       enable: false
       label: "Get Started Now"
