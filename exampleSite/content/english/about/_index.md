@@ -9,7 +9,7 @@
 # Features
  features:
   - title: "Master's in Quantum Technologies"
-    image: "exampleSite/assets/images/mypic/IIT-jodhpur-researchers6.jpg"
+    image: "images/mypic/IIT-jodhpur-researchers6.jpg"
     content: "Currently pursuing my Master's in Quantum technologies specilization in quantum computing at IIT Jodhpur."
     bulletpoints:
       - "Key Courses : Quantum mechanics, Introduction in quantum computation and information, quantum algorithms, quantum machine learning, "
