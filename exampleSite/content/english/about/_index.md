@@ -21,4 +21,16 @@ features:
       link: "#"
 
 
+  - title: "Automation Anlyst at Amazon"
+    image: ""
+    content: ""
+    bulletpoints:
+      - "Key Courses : Quantum mechanics, Introduction in quantum computation and information, quantum algorithms, quantum machine learning, "
+      - "Realization of quantum algorithms in Qiskit"
+      - "Various quantum machine learning algorithms"
+    button:
+      enable: true
+      label: "Get Started Now"
+      link: "#"
+
 ---
