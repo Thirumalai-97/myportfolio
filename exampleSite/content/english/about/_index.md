@@ -3,7 +3,7 @@
  banner:
   title: ""
   content: ""
-  image: ""
+ 
   
 # Features
  features:
