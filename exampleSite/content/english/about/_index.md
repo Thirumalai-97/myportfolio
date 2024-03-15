@@ -1,9 +1,5 @@
 ---
-# Banner
- banner:
-  title: ""
-  content: ""
- 
+
   
 # Features
  features:
