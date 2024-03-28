@@ -3,7 +3,7 @@ title: "Spooky Action at a Distance — The EPR Paradox"
 meta_title: ""
 description: ""
 date: 2024-01-15T05:00:00Z
-image: "images/blogs/blog2.JPEG"
+image: "images/blogs/spooky.jpg"
 categories: []
 author: "Thirumalai"
 tags: []
