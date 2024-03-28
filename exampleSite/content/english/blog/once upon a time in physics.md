@@ -3,7 +3,7 @@ title: "Once Upon a time in Physics: The Birth of Quantum Physics"
 meta_title: ""
 description: "A brief introduction to quantum"
 date: 2024-01-01T05:00:00Z
-image: "images/blogs/blog1.jpeg"
+image: "images/blogs/blog1.jpg"
 categories: []
 author: "Thirumalai"
 tags: []
