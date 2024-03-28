@@ -3,7 +3,7 @@ title: "Superposition and Entanglement"
 meta_title: ""
 description: "this is meta description"
 date: 2024-01-29T05:00:00Z
-image: "exampleSite/assets/images/blogs/blog3.JPEG"
+image: "images/blogs/blog3.JPEG"
 categories: []
 author: "Thirumalai"
 tags: []
