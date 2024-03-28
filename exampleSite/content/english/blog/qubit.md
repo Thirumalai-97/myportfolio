@@ -3,7 +3,7 @@ title: "Qubit-A bit more than a bit"
 meta_title: ""
 description: "Qubit and its charecteristics"
 date: 2024-03-09T05:00:00Z
-image: "images/blogs/blog1.jpeg"
+image: "images/blogs/qubit.jpg"
 categories: []
 author: "Thirumalai"
 tags: []
