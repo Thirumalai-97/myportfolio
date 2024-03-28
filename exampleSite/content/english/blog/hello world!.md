@@ -3,7 +3,7 @@ title: "Hello World! in Quantum Computing using IBM-Qiskit"
 meta_title: ""
 description: ""
 date: 2024-03-24T05:00:00Z
-image: "exampleSite/assets/images/blogs/blog2.JPEG"
+image: "exampleSite/assets/images/blogs/Hello world.jpg"
 categories: []
 author: "Thirumalai"
 tags: []
