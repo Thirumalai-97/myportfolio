@@ -9,8 +9,8 @@
     content: "Quantum Computing Engineer"
     bulletpoints:
       - "I'm currently pursuing my master's in Quantum Technologies, Specializing in Quantum computing at Indian Institute of Technology, Jodhpur."
-      - "looking to collaborate on ML,QML and cryptography"
-      - "Exploring QML algorithm such as QNN,QCNN,QGNN,QGAN. "
+      - "Area of interest lies in Quantum machine learning and AI"
+      - "Working on Quantum neuaral network"
     button:
       enable: false
       label: "Get Started Now"
@@ -21,9 +21,9 @@
     image: "images/mypic/IIT-jodhpur-researchers6.jpg"
     content: "Currently pursuing"
     bulletpoints:
-      - "Key Courses : Quantum mechanics, Introduction in quantum computation and information, quantum algorithms, quantum machine learning, "
-      - "Realization of quantum algorithms in Qiskit"
-      - "Various quantum machine learning algorithms"
+      - "Key Courses : Quantum Mechanics, Quantum Computation and Information, Quantum Algorithms, Quantum Machine Learning, Quantum Cryptography "
+      - "Labs - Quantum mechanics, Quantum communication and computing"
+      - "Working on variational quantum classifiers"
     button:
       enable: false
       label: "Get Started Now"
