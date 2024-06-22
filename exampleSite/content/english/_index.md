@@ -13,7 +13,7 @@ banner:
 # Testimonials
 testimonials:
   - name: "Quantum Computing"
-    designation: "Web Designer"
+    designation: "Master's Student"
     avatar: "/images/mypic/qcomputer.jpeg"
     content: "Quantum computing is a diverse field which mainly included quantum machine learning, quantum algorithms, post quantum cryptography. Here I have included my work on these areas. Below are my current work in these areas"
     
