@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome to my portfolio"
-  content: "In this site you can explore my work and blogs related to quantum computing, predominantly in     quantum machine learning, algorithm and cryptography."
+  title: "Hey You!, Welcome"
+  content: "Am a master's student at IIT Jodhpur, pursuing quatum technologies. This is my portfolio added with my off academic activity. Please check out my works on quantum tech and ML. Yes, don't forget to read my blogs and off record page."
   image: "/images/banner.png"
   button:
     enable: true
