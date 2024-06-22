@@ -44,7 +44,7 @@ weight = 5
 
 [[main]]
 name = "Off Record"
-url = "gallery/"
+url = "Off-Record/"
 weight = 6
 
 # footer menu
