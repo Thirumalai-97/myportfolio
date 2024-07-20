@@ -7,9 +7,24 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About me"
+name = "About-me"
 url = "about"
 weight = 2
+
+[[main]]
+name = "Education"
+url = "about"
+weight = 2
+
+[[main]]
+name = "Work-Experience"
+url = "about"
+weight = 2
+
+[[main]]
+name = "Quantum-Tech"
+url = "blog/"
+weight = 3
 
 [[main]]
 name = "Blog"
@@ -18,7 +33,7 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "Work"
+name = "Academic-Work"
 hasChildren = true
 
 [[main]]
