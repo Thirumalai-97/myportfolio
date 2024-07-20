@@ -5,7 +5,7 @@
  features:
 
   - title: "Thirumalai M"
-    image: "images/mypic/iisc-1.heic"
+    image: "images/mypic/iisc-2.png"
     content: "Quantum Computing Engineer"
     bulletpoints:
       - "I'm currently pursuing my master's in Quantum Technologies, Specializing in Quantum computing at Indian Institute of Technology, Jodhpur."
