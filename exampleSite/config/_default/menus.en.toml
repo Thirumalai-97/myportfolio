@@ -31,10 +31,10 @@ parent = "Work"
 name = "Quantum Machine Learning"
 url = "QML/"
 
-[[main]]
-parent = "Work"
-name = "Quantum Cryptography"
-url = "Crypt/"
+# [[main]]
+# parent = "Work"
+# name = "Quantum Cryptography"
+# url = "Crypt/"
 
 [[main]]
 parent = "Work"
@@ -43,7 +43,7 @@ url = "Qalgo/"
 weight = 5
 
 [[main]]
-name = "Off Record"
+name = "Kutty-Story"
 url = "Off-Record/"
 weight = 6
 
