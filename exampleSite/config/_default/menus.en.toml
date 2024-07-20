@@ -57,10 +57,7 @@ name = "Quantum Algorithms"
 url = "Qalgo/"
 weight = 5
 
-[[main]]
-name = "Kutty-Story"
-url = "Off-Record/"
-weight = 6
+
 
 # footer menu
 [[footer]]
