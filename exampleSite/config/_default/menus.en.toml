@@ -37,12 +37,12 @@ name = "Academic-Work"
 hasChildren = true
 
 [[main]]
-parent = "Work"
+parent = "Academic-Work"
 name = "Machine Learning"
 url = "ML/"
 
 [[main]]
-parent = "Work"
+parent = "Academic-Work"
 name = "Quantum Machine Learning"
 url = "QML/"
 
@@ -52,7 +52,7 @@ url = "QML/"
 # url = "Crypt/"
 
 [[main]]
-parent = "Work"
+parent = "Academic-Work"
 name = "Quantum Algorithms"
 url = "Qalgo/"
 weight = 5
