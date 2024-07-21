@@ -13,12 +13,12 @@ weight = 2
 
 [[main]]
 name = "Education"
-url = "about"
+url = "education"
 weight = 2
 
 [[main]]
 name = "Work-Experience"
-url = "about"
+url = "worked"
 weight = 2
 
 [[main]]
